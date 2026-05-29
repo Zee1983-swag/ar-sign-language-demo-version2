@@ -16,11 +16,9 @@ Project Features:
 Repository Contents
 This repository contains all complete development, demonstration, and documentation resources for the project:
 • Full Python source code for facial expression and hand gesture detection
-• Core algorithm implementation (EAR/MAR calculation, gesture logic, anti-shake filtering)
 • Static HTML official webpage: personal introduction, project overview, and design ideas
 • Embedded online functional demo display on the webpage
 • Original project demo video assets
-• Complete project documentation and usage guidelines
 
 Tech Stack:
 • Python: Main programming language for algorithm and logic implementation
