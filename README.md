@@ -1,6 +1,6 @@
 This project is a lightweight, low-latency real-time computer vision system powered by MediaPipe and OpenCV. It implements accurate facial state analysis and multi-type hand gesture recognition through webcam video stream processing, with full keypoint visualization and stability optimization.
 
-Project Features
+Project Features:
 • Real-time facial state detection: eye open/closed recognition based on the EAR algorithm
 • Real-time facial state detection: mouth open/closed recognition based on the MAR algorithm
 • Comprehensive hand gesture recognition: support 13 predefined gestures (digits 0–9, phone call, shush, fist, open palm)
@@ -22,7 +22,7 @@ This repository contains all complete development, demonstration, and documentat
 • Original project demo video assets
 • Complete project documentation and usage guidelines
 
-Tech Stack
+Tech Stack:
 • Python: Main programming language for algorithm and logic implementation
 • MediaPipe (Face Mesh + Hands): Provides high-precision facial and hand keypoint detection
 • OpenCV: Webcam capture, real-time image rendering, and UI display
